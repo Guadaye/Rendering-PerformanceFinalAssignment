@@ -1,0 +1,4 @@
+repository "Huh@ssl://guadaye@sh01-plasticscm.unity.cn:8787"
+  path "/"
+    smartbranch "/main/281417250" 
+     
